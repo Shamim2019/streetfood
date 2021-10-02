@@ -14,10 +14,11 @@ li{
   display: inline;
 
 margin: 10px;
-
 }
 
-
+p:last-child{
+  text-align-last:center;
+}
 
 
 
