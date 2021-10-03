@@ -2,7 +2,9 @@ body{
 text-align: center;
 z-index: -1;
 }
-
+.left{ 
+flex-wrap: wrap-reverse;
+}
                   
  
 
