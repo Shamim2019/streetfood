@@ -25,7 +25,7 @@ display: flex;
 
 img{
 
-background-color: rgb(178, 187, 174);
+background-color: rgb(186, 187, 174);
   background-position: center;
 }
 
@@ -39,6 +39,37 @@ margin-right: 0%;
 a:hover{
  box-shadow: o o 10px; 
 }
+h2{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
