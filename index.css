@@ -3,13 +3,7 @@ text-align: center;
 z-index: -1;
 }
 .left{ 
-flex-wrap: wrap-reverse;
-}
-                  
- 
-
-.right {       
-background-color:rgb(10,252,1 ) ; 
+flex-wrap:wrap;
 }
 li{
   display: inline;
@@ -43,7 +37,10 @@ a:hover{
 }
 
 
-
+img{
+float: left;
+margin-right:10px; 
+}
 
 
 
