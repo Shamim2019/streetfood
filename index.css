@@ -1,117 +1,46 @@
-body{
-text-align: center;
-z-index: -1;
+.sreetfood{
+  padding-left: 100px;
 }
-.left{ 
-flex-wrap:wrap;
+span{
+  color: orange;
+}
+#colorhead{
+  color: green;
 }
 li{
   display: inline;
-
-margin: 10px;
+  padding: 50px;
 }
-
-p:last-child{
-  text-align-last:center;
+#borderedgreen{
+  background-color: green;
+  color: white;
+  border-radius: 45px;
+  width: 100px;
+  text-align: center;
+  padding: 20px;
+  font-size: 24px;
 }
-
-main{
-display: flex; 
+.eclipse{
+  background-color: #45474410;
+  height: 500px;
 }
-
-img{
-
-background-color: rgb(186, 187, 174);
-  background-position: center;
+#eattogether{
+  text-align: center;
 }
-
-nav{
-max-width: 960px; 
-margin: 0 auto;
-padding:10px ;
-margin-right: 0%;
+#eatingtogether{
+  float: left;
 }
-
-a:hover{
- box-shadow: o o 10px; 
+#header{
+  color: #EAAB1B
 }
-
-
-img{
-float: left;
-margin-right:10px; 
+.eatingtogether{
+  background-color: rgba(182, 185, 183, 0.034);
+  height: 500px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.contactus{
+  background: blue;
+}
+.hotdeals{
+  background: chartreuse;
+  height: 500px;
+}
