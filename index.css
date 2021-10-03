@@ -1,8 +1,10 @@
-body{                      
-padding-left :0px;
-padding-right:0px 
-  }
+body{
+text-align: center;
+z-index: -1;
+}
 
+                  
+ 
 
 .right {       
 background-color:rgb(10,252,1 ) ; 
@@ -18,10 +20,8 @@ p:last-child{
 }
 
 main{
-display: flex;
-  
+display: flex; 
 }
-
 
 img{
 
@@ -39,9 +39,8 @@ margin-right: 0%;
 a:hover{
  box-shadow: o o 10px; 
 }
-h2{
-  text-align: center;
-}
+
+
 
 
 
