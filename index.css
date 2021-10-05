@@ -1,46 +1,120 @@
-.sreetfood{
-  padding-left: 100px;
+streetfood-bg{
+  background-color: red;
 }
 span{
   color: orange;
 }
+.imagecenter{
+  float: right;
+  position: relative;
+  margin-right: -100px;
+}
 #colorhead{
-  color: green;
+  color: rgb(160, 165, 160);
 }
 li{
   display: inline;
   padding: 50px;
 }
 #borderedgreen{
-  background-color: green;
+  background-color: rgb(115, 214, 115);
   color: white;
   border-radius: 45px;
-  width: 100px;
   text-align: center;
   padding: 20px;
   font-size: 24px;
+  width: 130px;
 }
 .eclipse{
   background-color: #45474410;
   height: 500px;
 }
-#eattogether{
-  text-align: center;
+.eatingtogether{
+  background-color: white;
+  height: 500px;
 }
 #eatingtogether{
   float: left;
 }
+#eattogether{
+}
 #header{
   color: #EAAB1B
 }
-.eatingtogether{
-  background-color: rgba(182, 185, 183, 0.034);
-  height: 500px;
+.description {
+  text-align: center;
+  font-size: 19px;
+  line-height: 30px;
+  color: #252525;
+  margin: 0;
+  padding-top: 20px;
 }
-.contactus{
-  background: blue;
+.contact us{ 
+position: right;
+background-color: #FFD77C;
+text-align: center;
 }
-.hotdeals{
-  background: chartreuse;
-  height: 500px;
+.footer{ 
+ background-color: #C9ECB5; 
 }
+
+.glass{  
+position:absolute
+}
+
+.description {
+  text-align: center;
+  font-size: 19px;
+  line-height: 30px;
+  color: #252525;
+  margin: 0;
+  padding-top: 20px;
+  margin-left: 70px;
+}
+.burger{
+  background-color: #EAF3E4;
+  padding: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.image {
+  margin-left: -85px;
+  margin-top: 30px;
+  position: absolute;
+}
+.burgername{
+  background: #fff;
+  padding: 20px 20px 30px;
+  border-bottom-right-radius: 45px;
+  width: 250px;
+  margin: 0 30px 40px;
+}
+#burgername{
+  margin: 0;
+}
+.displayflexburger{
+  display: flex;
+}
+.burgerbackgroundcolor{
+  background-color: #EAF3E4;
+  margin-left:50px;
+  margin-right: 50px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
