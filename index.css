@@ -44,3 +44,41 @@ li{
   background: chartreuse;
   height: 500px;
 }
+.description {
+  text-align: center;
+  font-size: 19px;
+  line-height: 30px;
+  color: #252525;
+  margin: 0;
+  padding-top: 20px;
+  margin-left: 70px;
+}
+.burger{
+  background-color: #EAF3E4;
+  padding: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.image {
+  margin-left: -85px;
+  margin-top: 30px;
+  position: absolute;
+}
+.burgername{
+  background: #fff;
+  padding: 20px 20px 30px;
+  border-bottom-right-radius: 45px;
+  width: 300px;
+  margin: 0 30px 40px;
+}
+#burgername{
+  margin: 0;
+}
+.displayflexburger{
+  display: flex;
+}
+.burgerbackgroundcolor{
+  background-color: #EAF3E4;
+  margin-left: 30px;
+  margin-right: 30px;
+}
