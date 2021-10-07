@@ -55,10 +55,13 @@ li{
   background-color: rgba(182, 185, 183, 0.034);
   height: 500px;
 }
+
 .hotdeals{
   background: #C9ECB5;
   height: 500px;
 }
+
+
 .description {
   text-align: center;
   font-size: 19px;
@@ -104,43 +107,12 @@ li{
   font-size: 22px;
   font-family: 'poppins';
   color: light;
-  
+
 }
 .colorgreen{
   color: green;
-  color-weight:100;
 }
-.contactus{
-  background: #FFD77C;
-  height: 500px;
-}
-.emailbutton{
-  margin-top: 50px;
-  background-color: whitesmoke;
-  border-radius: 45px;
-  width: 450px;
-  margin-left: 530px;
-  padding: 15px;
-}
-.sendnowbutton{
-  text-align: center;
-  margin-top: 80px;
-  background-color: yellowgreen;
-  border-radius: 45px;
-  width: 150px;
-  margin-left: 650px;
-  padding: 20px;
-}
-.descriptioncontactus{
-text-align: center;
-font-size: 22px;
-}
-.headcontactus{
-  text-align: center;
-  font-size: 32px;
-}
-
-#footer{
+  #footer{
     background-color: #C9ECB5;
     display: flex;
     flex-direction: column;
@@ -201,4 +173,33 @@ font-size: 22px;
         width: 400px;
         height: 30px;
         }
-/*footer section/*
+
+        
+
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
