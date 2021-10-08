@@ -15,6 +15,7 @@ streetfood restaurant menu can be installed by linking in my github webpage http
 In collaboration with others we were able to come up with streetfood  restaurant menu that enabled us to serve our customers at any time.
 
 
+## license
+copyright(c)  [2021]   
 
-
-
+MIT  street food  restaurant.
