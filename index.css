@@ -194,15 +194,44 @@ padding-top:10px ;
 
 .contactus{
 background-color: #FFF5DD;
-height: 70vh;
-display:flex;
-flex-direction: column;
-justify-content: center;
+text-align:center;
+}
+.foodcontainer{
 align-items: center;
-padding-left: 30%;
-padding-left: 30%;
+display: flexbox;
+border-radius: -200px;
+position:absolute;
+border-top: -200px;
 
 }
+
+#submit-btn {
+  Background-color: green;
+  Border:none;
+  Padding: 10px 30px;
+  Margin: 20px 40px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
